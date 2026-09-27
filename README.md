@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Lingaraj%20Kar&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DevOps%20%E2%80%A2%20SRE%20%E2%80%A2%20Platform%20%26%20GenAI%20Engineer&descAlignY=58&descSize=17" alt="Lingaraj Kar" />
+  <img src="https://media.licdn.com/dms/image/v2/D5635AQG4678yG_pFYw/profile-framedphoto-shrink_800_800/B56Z1PjITnJgAg-/0/1775156102635?e=1791108000&v=beta&t=-L9HMlTnHSlEWdKW5AZS3sWpzlg1WOQYVKSaSNfdLV8" alt="Lingaraj Kar" />
 </p>
 
 <p align="center">
